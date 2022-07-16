@@ -1,2 +1,3 @@
 # Hanoi-Tower
-The algorithm that solves hanoi tower game
+하노이의 탑 문제를 풀어주는 코드입니다.
+문제 해결 과정을 보여줍니다.
